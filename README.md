@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, nice to meet you! 👋
+
+- :earth_americas: I'm currently coding with a great team the website of [GermanZero](https://germanzero.de/)
+- :pretzel: My other heart project is my [blog](https://www.almablog.de/) and podcast to learn German
+- 👯 I’m looking for projects where I can collaborate as frontend or fullstack web developer
+- :mate: Fun fact: as I lived in Argentine for four years, I LOVE to drink mate while I'm programming... 
+- 💬 Feel free to contact me in German, English or Spanish!
 
 <!--
 **VroniZinsser/VroniZinsser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
